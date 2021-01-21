@@ -1,0 +1,8 @@
+title: Rgeo.github.io
+description: Support for geo data and databases in ruby and rails
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
