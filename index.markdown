@@ -4,6 +4,8 @@ title: "RGeo — Support for geo and databases in Ruby and Rails"
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
+Support for geo and databases in Ruby and Rails
+
 ```ruby
 require "open-uri"
 require "json"
