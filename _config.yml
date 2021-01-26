@@ -24,6 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 logo: images/rgeo.png
 show_downloads: false
 baseurl: ""
+sponsors:
+  - name: Goldfish Ads
+    logo: images/goldfish-ads.png
+  - name: Klaxit
+    logo: images/klaxit.svg
+    url: https://www.klaxit.com
 url: "http://rgeo.info"
 github_username:  rgeo
 

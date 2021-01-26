@@ -35,16 +35,6 @@ end
 - [RGeo::GeoJSON](https://github.com/rgeo/rgeo-geojson)
 - And many more on [our organisation page](https://github.com/rgeo)
 
-## Sponsors
-
-<a>
-	<img alt="Goldfish Ads" src="images/goldfish-ads.png">
-</a>
-<a href="https://github.com/klaxit">
-	<img alt="Klaxit" src="images/klaxit.svg" />
-</a>
-
-
 ## Credits
 
 Thanks to @dazuma, author of RGeo. And to every contributors of the various
