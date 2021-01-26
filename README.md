@@ -1,4 +1,8 @@
-rgeo.github.io
-==============
+# RGeo's official website
 
-Support for geo data and databases in ruby and rails
+To make it run locally:
+
+```ruby
+bundle
+bundle exec jekyll serve
+```
