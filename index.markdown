@@ -1,5 +1,5 @@
 ---
-title: "RGeo — Support for geo and databases in Ruby and Rails"
+title: "Support for geo and databases in Ruby and Rails"
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
